@@ -1,15 +1,15 @@
-# Halo, Saya Efra 👋
+# Halo, Saya Efra👋
 
-Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan game, skrip teknis, dan backend. Saya aktif mengelola EX STUDIO dan mengembangkan berbagai proyek interaktif serta solusi berbasis kode.
+Saya adalah mahasiswa Teknik Informatika yang berfokus pada **Backend Development** dan arsitektur sisi server. Saya senang membangun logika sistem yang efisien, mengelola database, serta mengintegrasikan bot komunitas dan skrip teknis melalui EX STUDIO.
 
 ---
 
 ### 🚀 Tentang Saya
 
 - 🎓 Mahasiswa Teknik Informatika.
-- 🛠️ Owner dan Developer di **EX STUDIO**.
-- 🎮 Spesialisasi dalam pengembangan game di Roblox Studio (Luau scripting, optimalisasi terrain, dan sistem game).
-- 💻 Tertarik pada backend.
+- ⚙️ Fokus pada **Backend Engineering** (Logika sisi server, API, dan manajemen database).
+- 🛠️ Owner dan Developer di **EX STUDIO** (Efra Legacy).
+- 🎮 Berpengalaman dalam pengembangan skrip teknis dan optimalisasi sistem menggunakan Luau (Roblox Studio).
 
 ---
 
@@ -17,28 +17,31 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan game, s
 
 | Kategori | Teknologi & Bahasa Pemrograman |
 | :--- | :--- |
-| **Bahasa Pemrograman** | Luau, C, Python, JavaScript, PHP, SQL |
-| **Pengembangan Web** | HTML5, CSS3 |
-| **Alat & Desain** | Figma, Blender, Roblox Studio |
-| **DevOps & Alat Lain** | Git, GitHub, Docker, Netlify, Vercel |
+| **Backend & Core** | TypeScript, JavaScript, C, Python, PHP, Luau |
+| **Database & Tools** | SQL, Docker, Git, GitHub |
+| **Platform & Deployment** | Netlify, Vercel |
+| **UI & 3D (Pendukung)** | HTML5, CSS3, Figma, Blender |
 
 ---
 
-### 📂 Proyek Unggulan
+### 📂 Proyek Utama
 
-- **EX STUDIO Projects** – Mengembangkan skrip teknis, optimalisasi performa game, dan aset lingkungan 3D.
-- **Cinemika** – Implementasi dan tata kelola repositori web yang dideploy secara modern.
+- **Sistem Manajemen Data** – Pengembangan program backend berbasis bahasa C dengan fungsi struktural untuk efisiensi tata kelola data.
+- **EX STUDIO Projects** – Arsitektur skrip teknis, manajemen performa sistem logika, dan otomatisasi bot komunitas.
+- **Cinemika** – Implementasi repositori web dan pengelolaan deployment modern.
 
 ---
 
 ### 📊 Statistik GitHub
 
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=AyakaID&show_icons=true&theme=radical)
-![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaID&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyakaID&show_icons=true&theme=radical" alt="Statistik GitHub Efra" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaID&layout=compact&theme=radical" alt="Bahasa Terbanyak" height="180" />
+</p>
 
 ---
 
 ### 🤝 Hubungi Saya
 
-- **Discord:** 
-- **LinkedIn:** 
+- **Discord:** [Gabung ke Komunitas EX STUDIO](https://discord.gg/p6ESjAeGtD)
+- **LinkedIn:** [Profil LinkedIn Anda](https://www.linkedin.com/in/efraim-bias-adisya-ab905b384/)
