@@ -33,8 +33,8 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan game, s
 
 ### 📊 Statistik GitHub
 
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical)
-![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radical)
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=AyakaID&show_icons=true&theme=radical)
+![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaID&layout=compact&theme=radical)
 
 ---
 
