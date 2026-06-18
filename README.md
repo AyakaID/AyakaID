@@ -1,16 +1,44 @@
-## Hi there 👋
+# Halo, Saya Efraim Bias Adisya 👋
 
-<!--
-**AyakaID/AyakaID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan game, skrip teknis, dan backend. Saya aktif mengelola EX STUDIO dan mengembangkan berbagai proyek interaktif serta solusi berbasis kode.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tentang Saya
+
+- 🎓 Mahasiswa Teknik Informatika.
+- 🛠️ Owner dan Developer di **EX STUDIO**.
+- 🎮 Spesialisasi dalam pengembangan game di Roblox Studio (Luau scripting, optimalisasi terrain, dan sistem game).
+- 💻 Tertarik pada backend.
+
+---
+
+### 🛠️ Keahlian Teknis
+
+| Kategori | Teknologi & Bahasa Pemrograman |
+| :--- | :--- |
+| **Bahasa Pemrograman** | Luau, C, Python, JavaScript, PHP, SQL |
+| **Pengembangan Web** | HTML5, CSS3 |
+| **Alat & Desain** | Figma, Blender, Roblox Studio |
+| **DevOps & Alat Lain** | Git, GitHub, Docker, Netlify, Vercel |
+
+---
+
+### 📂 Proyek Unggulan
+
+- **EX STUDIO Projects** – Mengembangkan skrip teknis, optimalisasi performa game, dan aset lingkungan 3D.
+- **Cinemika** – Implementasi dan tata kelola repositori web yang dideploy secara modern.
+
+---
+
+### 📊 Statistik GitHub
+
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical)
+![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radical)
+
+---
+
+### 🤝 Hubungi Saya
+
+- **Discord:** 
+- **LinkedIn:** 
