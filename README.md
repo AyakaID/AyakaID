@@ -1,4 +1,4 @@
-# Halo, Saya Efraim Bias Adisya 👋
+# Halo, Saya Efra 👋
 
 Saya adalah mahasiswa Teknik Informatika yang berfokus pada pengembangan game, skrip teknis, dan backend. Saya aktif mengelola EX STUDIO dan mengembangkan berbagai proyek interaktif serta solusi berbasis kode.
 
