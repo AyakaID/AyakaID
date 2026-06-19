@@ -9,7 +9,7 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada **Backend Developmen
 - 🎓 Mahasiswa Teknik Informatika
 - ⚙️ Fokus pada **Backend Engineering** (Logika sisi server, API, dan manajemen database)
 - 🎮 **Roblox Game Developer** dengan pengalaman dalam Luau scripting
-- 🛠️ Owner dan Developer di **EX STUDIO** (Efra Legacy)
+- 🛠️ Owner dan Developer di **EX STUDIO**
 - 💻 Berpengalaman dalam pengembangan web modern menggunakan Next.js & TypeScript
 
 ---
