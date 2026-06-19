@@ -4,7 +4,7 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada **Backend Developmen
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About me
 
 - 🎓 Mahasiswa Teknik Informatika
 - ⚙️ Fokus pada **Backend Engineering** (Logika sisi server, API, dan manajemen database)
@@ -18,7 +18,7 @@ Saya adalah mahasiswa Teknik Informatika yang berfokus pada **Backend Developmen
 
 | Kategori | Teknologi & Bahasa Pemrograman |
 | :--- | :--- |
-| **Backend & Core** | TypeScript, JavaScript, C, C#, Python, PHP, Luau |
+| **Backend & Core** | TypeScript, JavaScript, Go, C, C#, Python, PHP, Luau |
 | **Frontend & UI** | React.js, Next.js, HTML5, CSS3, TailwindCSS |
 | **Database & Tools** | SQL, Docker, Git, GitHub, MYOB |
 | **Platform & Deployment** | Netlify, Vercel |
