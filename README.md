@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer • Roblox Game Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA0YmR3ZTh6cWVld3ZtdThnenR5Nzl5am1hY2RrbWt1bmF4dzF3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/58pz2Z0LJSVLzobf5P/giphy.gif" width="420"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" width="420"/>
 </p>
 
 ---
