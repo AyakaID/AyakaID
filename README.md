@@ -9,8 +9,8 @@
 
 ## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyakaID/AyakaID/output/github-contribution-grid-snake.svg" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyakaID&show_icons=true&theme=radical" alt="Statistic" height="180" />
 </p>
 
 ---
