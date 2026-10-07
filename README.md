@@ -1,13 +1,9 @@
 <h1 align="center">Efra</h1>
-<h3 align="center">Backend Developer • Roblox Game Developer</h3>
-
-<p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" width="420"/>
-</p>
+<h3 align="center">Backend Developer • Game Developer</h3>
 
 ---
 
-## 📊 Contribution Activity
+## Contribution Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AyakaID&show_icons=true&theme=radical" alt="Statistic" height="180" />
@@ -15,24 +11,24 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 ⚙️ Backend Developer  
 🎮 Roblox Game Developer   
-📚 Currently mastering **TypeScript, C++ & C**  
-🌱 Building efficient server-side logic, database management, and game mechanics
+📚 Currently mastering **TypeScript, Elixir & C**  
+- Building efficient server-side logic, database management, and game mechanics
 
 ---
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,react,tailwind,c,python,php,git,docker,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=ts,js,elixir" />
 </p>
 
 ---
 
-## 🎯 Philosophy
+## Philosophy
 > *"Even slow progress is still progress."* ⚔️  
-> *Training arc is in progress... Building from backend to game development.*
+> *Training arc is in progress...*
 
 ---
 
@@ -52,9 +48,9 @@
 </p>
 
 <p align="center">
-  <sub>🎮 Roblox scripting • 🤖 Bot automation • ⚙️ Backend systems</sub>
+  <sub>🎮 Roblox • 🤖 Discord Bot • ⚙️ Backend systems</sub>
 </p>
 
 ---
 
-⭐ Follow my journey from **student** to **professional developer**
+⭐ Follow my journey
