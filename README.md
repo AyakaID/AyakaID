@@ -1,5 +1,5 @@
 <h1 align="center">Efra</h1>
-<h3 align="center">Backend Developer • Game Developer</h3>
+<h3 align="center">Developer</h3>
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,elixir" />
+  <img src="https://skillicons.dev/icons?i=ts,js,c" />
 </p>
 
 ---
