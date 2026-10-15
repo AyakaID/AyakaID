@@ -14,7 +14,7 @@
 ## About Me
 ⚙️ Backend Developer  
 🎮 Roblox Game Developer   
-📚 Currently mastering **TypeScript, Elixir & C**  
+📚 Currently mastering **C**  
 - Building efficient server-side logic, database management, and game mechanics
 
 ---
