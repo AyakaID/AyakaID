@@ -1,56 +1,67 @@
-<h1 align="center">Efra</h1>
-<h3 align="center">Developer</h3>
+<img width=100% src="./public/banner.png" alt="header"/> 
 
----
+# Hello Connections!
 
-## Contribution Activity
+<img align="right" src="https://github.com/AyakaID.png" width=150 alt="Efra">
+
+I am Efraim Bias Adisya (Efra), an Informatics Engineering student and backend-focused developer specializing in server-side architecture and Discord bot ecosystems.
+
+Focused on building reliable, distributed systems and modular backend services. I believe in keeping systems clean, maintainable, and high-performance.
+
+> [!NOTE]
+> Currently developing **Koda** (Discord Bot) for server automation and managing small-scale backend projects.
+
+<img width=100% src="./public/stack.png" alt="header"/> 
+
+<table border="0">
+<tr>
+<td width="60%" valign="top">
+<h2>Discord Profile Activity</h2>
+<p>Active in the Discord developer ecosystem, focusing on <b>high-performance automation</b> and <b>bot engineering</b>.</p>
+<ul>
+<li><b>Building:</b> Developing and maintaining the <b>Koda</b> Discord bot for custom server automation and utility.</li>
+<li><b>Structuring:</b> Designing lightweight data persistence and backend APIs using <b>SQLite</b> and <b>SQL</b>.</li>
+<li><b>Managing:</b> Managing small-scale backend projects, server automation, and event-driven workflows.</li>
+<li><b>Exploring:</b> Researching Linux system administration, network protocols, and process management.</li>
+</ul>
+</td>
+<td width="40%" valign="top" align="center">
+<a href="https://discord.com/users/521157100957859851">
+<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=090808&idleMessage=Lets%20Connect!" alt="Discord Presence">
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AyakaID&show_icons=true&hide_border=true&theme=dark" height="110" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AyakaID&hide_border=true&theme=dark" height="110" style="margin-left: -5px;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AyakaID&hide_border=true&layout=compact&theme=dark" height="110" style="margin-left: -5px;" />
+</p>
+
+## Backend Tech Stack
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyakaID&show_icons=true&theme=radical" alt="Statistic" height="180" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
+## Let's Connect!
 
-## About Me
-⚙️ Backend Developer  
-🎮 Roblox Game Developer   
-📚 Currently mastering **C**  
-- Building efficient server-side logic, database management, and game mechanics
-
----
-
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,c" />
-</p>
-
----
-
-## Philosophy
-> *"Even slow progress is still progress."* ⚔️  
-> *Training arc is in progress...*
-
----
-
-## 🌐 Social Media & Community
-
-<p align="center">
-  <!-- Discord Server -->
-  <a href="https://discord.gg/p6ESjAeGtD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join%20EX%20STUDIO-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-
-  
-  <!-- GitHub -->
+<div align="center">
   <a href="https://github.com/AyakaID" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-AyakaID-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+  <a href="https://efraim.codes" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">
-  <sub>🎮 Roblox • 🤖 Discord Bot • ⚙️ Backend systems</sub>
+  <img src="https://komarev.com/ghpvc/?username=AyakaID&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="AyakaID" />
 </p>
-
----
-
-⭐ Follow my journey
