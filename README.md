@@ -27,7 +27,7 @@ Focused on building reliable, distributed systems and modular backend services. 
 </td>
 <td width="40%" valign="top" align="center">
 <a href="https://discord.com/users/521157100957859851">
-<img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=090808&idleMessage=Lets%20Connect!" alt="Discord Presence">
+<img src="https://lanyard.cnrad.dev/api/521157100957859851?theme=dark&bg=090808&idleMessage=Lets%20Connect!" alt="Discord Presence">
 </a>
 </td>
 </tr>
