@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/AyakaID.png" width=150 alt="Efra">
 
-I am Efraim Bias Adisya (Efra), an Informatics Engineering student and backend-focused developer specializing in server-side architecture and Discord bot ecosystems.
+I am Efra, an Informatics Engineering student and backend-focused developer specializing in server-side architecture and Discord bot ecosystems.
 
 Focused on building reliable, distributed systems and modular backend services. I believe in keeping systems clean, maintainable, and high-performance.
 
