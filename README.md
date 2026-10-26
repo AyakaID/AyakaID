@@ -1,17 +1,17 @@
-<img width=100% src="./public/banner.png" alt="header"/> 
+<img width=100% src="./public/banner.png" alt="header"/>
 
 # Hello Connections!
 
 <img align="right" src="https://github.com/AyakaID.png" width=150 alt="Efra">
 
-I am Efra, an Informatics Engineering student and backend-focused developer specializing in server-side architecture and Discord bot ecosystems.
+I am Efra, an Informatics Engineering student and backend developer focused on building clean, high-performance server-side systems, especially within the Discord ecosystem.
 
-Focused on building reliable, distributed systems and modular backend services. I believe in keeping systems clean, maintainable, and high-performance.
+Believe in keeping complexity under control through simplicity and modular design. My goal is to build reliable, maintainable services that stay fast as they grow.
 
 > [!NOTE]
-> Currently developing **Koda** (Discord Bot) for server automation and managing small-scale backend projects.
+> Currently developing **Koda**, a Discord bot for server automation, alongside small-scale backend projects.
 
-<img width=100% src="./public/stack.png" alt="header"/> 
+<img width=100% src="./public/stack.png" alt="stack"/>
 
 <table border="0">
 <tr>
@@ -19,9 +19,9 @@ Focused on building reliable, distributed systems and modular backend services. 
 <h2>Discord Profile Activity</h2>
 <p>Active in the Discord developer ecosystem, focusing on <b>high-performance automation</b> and <b>bot engineering</b>.</p>
 <ul>
-<li><b>Building:</b> Developing and maintaining the <b>Koda</b> Discord bot for custom server automation and utility.</li>
-<li><b>Structuring:</b> Designing lightweight data persistence and backend APIs using <b>SQLite</b> and <b>SQL</b>.</li>
-<li><b>Managing:</b> Managing small-scale backend projects, server automation, and event-driven workflows.</li>
+<li><b>Building:</b> Developing the <b>Koda</b> Discord bot for custom server automation and utility.</li>
+<li><b>Structuring:</b> Designing lightweight data persistence and backend APIs with <b>SQLite</b> and <b>SQL</b>.</li>
+<li><b>Managing:</b> Running small-scale backend projects, server automation, and event-driven workflows.</li>
 <li><b>Exploring:</b> Researching Linux system administration, network protocols, and process management.</li>
 </ul>
 </td>
@@ -34,9 +34,7 @@ Focused on building reliable, distributed systems and modular backend services. 
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AyakaID&show_icons=true&hide_border=true&theme=dark" height="110" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AyakaID&hide_border=true&theme=dark" height="110" style="margin-left: -5px;" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AyakaID&hide_border=true&layout=compact&theme=dark" height="110" style="margin-left: -5px;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AyakaID&show_icons=true&hide_border=true&theme=dark" height="110" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AyakaID&hide_border=true&theme=dark" height="110" style="margin-left: -5px;" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AyakaID&hide_border=true&layout=compact&theme=dark" height="110" style="margin-left: -5px;" />
 </p>
 
 ## Tech Stack
@@ -51,7 +49,7 @@ Focused on building reliable, distributed systems and modular backend services. 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## Let's Connect!
+## Let's Connect!~
 
 <div align="center">
   <a href="https://github.com/AyakaID" target="_blank">
