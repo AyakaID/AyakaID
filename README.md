@@ -11,8 +11,6 @@ Believe in keeping complexity under control through simplicity and modular desig
 > [!NOTE]
 > Currently developing **Koda**, a Discord bot for server automation, alongside small-scale backend projects.
 
-<img width=100% src="./public/stack.png" alt="stack"/>
-
 <table border="0">
 <tr>
 <td width="60%" valign="top">
@@ -39,14 +37,8 @@ Believe in keeping complexity under control through simplicity and modular desig
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="center">
+  <img width=100% src="./public/tech-stack-animated.svg" alt="Tech Stack"/>
 </p>
 
 ## Let's Connect!~
@@ -55,8 +47,8 @@ Believe in keeping complexity under control through simplicity and modular desig
   <a href="https://github.com/AyakaID" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://efraim.codes" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  <a href="https://www.instagram.com/efraadsyaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
