@@ -32,7 +32,7 @@ Believe in keeping complexity under control through simplicity and modular desig
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AyakaID&show_icons=true&hide_border=true&theme=dark" height="110" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AyakaID&hide_border=true&theme=dark" height="110" style="margin-left: -5px;" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AyakaID&hide_border=true&layout=compact&theme=dark" height="110" style="margin-left: -5px;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=efracode&show_icons=true&hide_border=true&theme=dark" height="110" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=efracode&hide_border=true&theme=dark" height="110" style="margin-left: -5px;" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=efracode&hide_border=true&layout=compact&theme=dark" height="110" style="margin-left: -5px;" />
 </p>
 
 ## Tech Stack
