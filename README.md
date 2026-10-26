@@ -2,7 +2,7 @@
 
 # Hello Connections!
 
-<img align="right" src="https://github.com/AyakaID.png" width=150 alt="Efra">
+<img align="right" src="https://github.com/efracode.png" width=150 alt="Efra">
 
 I am Efra, an Informatics Engineering student and backend developer focused on building clean, high-performance server-side systems, especially within the Discord ecosystem.
 
@@ -44,7 +44,7 @@ Believe in keeping complexity under control through simplicity and modular desig
 ## Let's Connect!~
 
 <div align="center">
-  <a href="https://github.com/AyakaID" target="_blank">
+  <a href="https://github.com/efracode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/efraadsyaa/" target="_blank">
