@@ -39,7 +39,7 @@ Focused on building reliable, distributed systems and modular backend services. 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AyakaID&hide_border=true&layout=compact&theme=dark" height="110" style="margin-left: -5px;" />
 </p>
 
-## Backend Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
