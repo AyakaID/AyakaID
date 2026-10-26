@@ -1,4 +1,4 @@
-<img width=100% src="./public/banner.png" alt="header"/>
+<img width=100% src="./public/banner.svg" alt="header"/>
 
 # Hello Connections!
 
